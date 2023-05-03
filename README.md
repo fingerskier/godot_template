@@ -14,3 +14,5 @@ Stuff should be well vetted.
 - MQTT
 - USB Serial
 - Bluetooth
+- Charting scene
+- Camera
