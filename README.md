@@ -13,3 +13,4 @@ Stuff should be well vetted.
 - Sqlite
 - MQTT
 - USB Serial
+- Bluetooth
